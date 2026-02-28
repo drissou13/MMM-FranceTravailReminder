@@ -28,7 +28,7 @@ Ajouter le module dans config/config.js :
         earliestHour: 8,
         latestHour: 20
     }
-}
+},
 
 Redémarrer MagicMirror :
 
